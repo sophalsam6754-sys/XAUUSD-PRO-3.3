@@ -1,0 +1,9 @@
+{
+  "name": "XAUUSD PRO V3.3",
+  "short_name": "XAUUSD PRO",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#06152d",
+  "theme_color": "#06152d",
+  "icons": []
+}
